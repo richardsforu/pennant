@@ -25,6 +25,8 @@ class Employee {
 	
 	@Override
 	public int hashCode() {
+		
+		//Arrays.
 	
 		return id;
 	}
